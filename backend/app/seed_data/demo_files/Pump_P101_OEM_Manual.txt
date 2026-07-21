@@ -1,0 +1,6 @@
+Flowserve OEM Boiler Feed Pump P-101 Manual
+Serial Number: FS-2021-99841 | Model: 3-Stage High Pressure Centrifugal
+Design Pressure: 140 bar | Rated Flow: 450 m3/h | Max Temperature: 85°C
+Maintenance Periodicity: Quarterly Lubrication, Annual Coupling Alignment.
+API Plan 53B Pressurized Barrier Fluid Flush System required for mechanical seal.
+Continuous allowable RMS vibration limit: 4.5 mm/s.

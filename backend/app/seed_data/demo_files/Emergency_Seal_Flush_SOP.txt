@@ -1,0 +1,9 @@
+STANDARD OPERATING PROCEDURE: EMERGENCY SEAL FLUSH
+Procedure ID: SOP-12-FLUSH | Asset: P-101
+Tools: API Plan 53B Flush Cart, Torque Wrench 200 Nm, Nitrogen Cylinder.
+PPE: Nitrile Gloves, Safety Goggles, Steel Toe Boots, Arc Flash Suit Cat 2.
+Steps:
+1. Lock Out Tag Out (LOTO) 4160V feeder breaker for Motor M-102.
+2. Depressurize suction line L-FEED-1004 to 0 bar.
+3. Re-charge nitrogen accumulator to 4.5 bar using Plan 53B cart.
+4. Verify laser alignment runout <0.02 mm.

@@ -1,0 +1,2358 @@
+{
+  "nodes": [
+    {
+      "id": "V-101",
+      "label": "GenChem Valve V-101",
+      "type": "Valve",
+      "attributes": {
+        "area": "Boiler Section",
+        "health": 78.4
+      }
+    },
+    {
+      "id": "C-102",
+      "label": "GenChem Compressor C-102",
+      "type": "Compressor",
+      "attributes": {
+        "area": "Utilities",
+        "health": 56.2
+      }
+    },
+    {
+      "id": "M-103",
+      "label": "GenChem Motor M-103",
+      "type": "Motor",
+      "attributes": {
+        "area": "Cooling Tower",
+        "health": 57.5
+      }
+    },
+    {
+      "id": "HE-104",
+      "label": "GenChem HeatExchanger HE-104",
+      "type": "HeatExchanger",
+      "attributes": {
+        "area": "Compressor Area",
+        "health": 71.2
+      }
+    },
+    {
+      "id": "B-105",
+      "label": "GenChem Boiler B-105",
+      "type": "Boiler",
+      "attributes": {
+        "area": "Tank Farm",
+        "health": 55.7
+      }
+    },
+    {
+      "id": "T-106",
+      "label": "GenChem Tank T-106",
+      "type": "Tank",
+      "attributes": {
+        "area": "Process Area",
+        "health": 96.2
+      }
+    },
+    {
+      "id": "P-107",
+      "label": "GenChem Pipeline P-107",
+      "type": "Pipeline",
+      "attributes": {
+        "area": "Control Room",
+        "health": 79.1
+      }
+    },
+    {
+      "id": "FM-108",
+      "label": "GenChem FlowMeter FM-108",
+      "type": "FlowMeter",
+      "attributes": {
+        "area": "Pump House",
+        "health": 62.2
+      }
+    },
+    {
+      "id": "PT-109",
+      "label": "GenChem PressureTransmitter PT-109",
+      "type": "PressureTransmitter",
+      "attributes": {
+        "area": "Boiler Section",
+        "health": 65.5
+      }
+    },
+    {
+      "id": "P-110",
+      "label": "GenChem Pump P-110",
+      "type": "Pump",
+      "attributes": {
+        "area": "Utilities",
+        "health": 96.4
+      }
+    },
+    {
+      "id": "V-111",
+      "label": "GenChem Valve V-111",
+      "type": "Valve",
+      "attributes": {
+        "area": "Cooling Tower",
+        "health": 78.9
+      }
+    },
+    {
+      "id": "C-112",
+      "label": "GenChem Compressor C-112",
+      "type": "Compressor",
+      "attributes": {
+        "area": "Compressor Area",
+        "health": 92.1
+      }
+    },
+    {
+      "id": "M-113",
+      "label": "GenChem Motor M-113",
+      "type": "Motor",
+      "attributes": {
+        "area": "Tank Farm",
+        "health": 96.5
+      }
+    },
+    {
+      "id": "HE-114",
+      "label": "GenChem HeatExchanger HE-114",
+      "type": "HeatExchanger",
+      "attributes": {
+        "area": "Process Area",
+        "health": 76.9
+      }
+    },
+    {
+      "id": "B-115",
+      "label": "GenChem Boiler B-115",
+      "type": "Boiler",
+      "attributes": {
+        "area": "Control Room",
+        "health": 88.0
+      }
+    },
+    {
+      "id": "T-116",
+      "label": "GenChem Tank T-116",
+      "type": "Tank",
+      "attributes": {
+        "area": "Pump House",
+        "health": 79.4
+      }
+    },
+    {
+      "id": "P-117",
+      "label": "GenChem Pipeline P-117",
+      "type": "Pipeline",
+      "attributes": {
+        "area": "Boiler Section",
+        "health": 84.6
+      }
+    },
+    {
+      "id": "FM-118",
+      "label": "GenChem FlowMeter FM-118",
+      "type": "FlowMeter",
+      "attributes": {
+        "area": "Utilities",
+        "health": 57.3
+      }
+    },
+    {
+      "id": "PT-119",
+      "label": "GenChem PressureTransmitter PT-119",
+      "type": "PressureTransmitter",
+      "attributes": {
+        "area": "Cooling Tower",
+        "health": 62.3
+      }
+    },
+    {
+      "id": "P-120",
+      "label": "GenChem Pump P-120",
+      "type": "Pump",
+      "attributes": {
+        "area": "Compressor Area",
+        "health": 88.5
+      }
+    },
+    {
+      "id": "V-121",
+      "label": "GenChem Valve V-121",
+      "type": "Valve",
+      "attributes": {
+        "area": "Tank Farm",
+        "health": 62.5
+      }
+    },
+    {
+      "id": "C-122",
+      "label": "GenChem Compressor C-122",
+      "type": "Compressor",
+      "attributes": {
+        "area": "Process Area",
+        "health": 66.1
+      }
+    },
+    {
+      "id": "M-123",
+      "label": "GenChem Motor M-123",
+      "type": "Motor",
+      "attributes": {
+        "area": "Control Room",
+        "health": 98.6
+      }
+    },
+    {
+      "id": "HE-124",
+      "label": "GenChem HeatExchanger HE-124",
+      "type": "HeatExchanger",
+      "attributes": {
+        "area": "Pump House",
+        "health": 75.2
+      }
+    },
+    {
+      "id": "B-125",
+      "label": "GenChem Boiler B-125",
+      "type": "Boiler",
+      "attributes": {
+        "area": "Boiler Section",
+        "health": 87.2
+      }
+    },
+    {
+      "id": "T-126",
+      "label": "GenChem Tank T-126",
+      "type": "Tank",
+      "attributes": {
+        "area": "Utilities",
+        "health": 91.2
+      }
+    },
+    {
+      "id": "P-127",
+      "label": "GenChem Pipeline P-127",
+      "type": "Pipeline",
+      "attributes": {
+        "area": "Cooling Tower",
+        "health": 89.1
+      }
+    },
+    {
+      "id": "FM-128",
+      "label": "GenChem FlowMeter FM-128",
+      "type": "FlowMeter",
+      "attributes": {
+        "area": "Compressor Area",
+        "health": 94.2
+      }
+    },
+    {
+      "id": "PT-129",
+      "label": "GenChem PressureTransmitter PT-129",
+      "type": "PressureTransmitter",
+      "attributes": {
+        "area": "Tank Farm",
+        "health": 95.8
+      }
+    },
+    {
+      "id": "P-130",
+      "label": "GenChem Pump P-130",
+      "type": "Pump",
+      "attributes": {
+        "area": "Process Area",
+        "health": 88.6
+      }
+    },
+    {
+      "id": "V-131",
+      "label": "GenChem Valve V-131",
+      "type": "Valve",
+      "attributes": {
+        "area": "Control Room",
+        "health": 83.9
+      }
+    },
+    {
+      "id": "C-132",
+      "label": "GenChem Compressor C-132",
+      "type": "Compressor",
+      "attributes": {
+        "area": "Pump House",
+        "health": 68.7
+      }
+    },
+    {
+      "id": "M-133",
+      "label": "GenChem Motor M-133",
+      "type": "Motor",
+      "attributes": {
+        "area": "Boiler Section",
+        "health": 75.5
+      }
+    },
+    {
+      "id": "HE-134",
+      "label": "GenChem HeatExchanger HE-134",
+      "type": "HeatExchanger",
+      "attributes": {
+        "area": "Utilities",
+        "health": 69.9
+      }
+    },
+    {
+      "id": "B-135",
+      "label": "GenChem Boiler B-135",
+      "type": "Boiler",
+      "attributes": {
+        "area": "Cooling Tower",
+        "health": 87.2
+      }
+    },
+    {
+      "id": "T-136",
+      "label": "GenChem Tank T-136",
+      "type": "Tank",
+      "attributes": {
+        "area": "Compressor Area",
+        "health": 66.0
+      }
+    },
+    {
+      "id": "P-137",
+      "label": "GenChem Pipeline P-137",
+      "type": "Pipeline",
+      "attributes": {
+        "area": "Tank Farm",
+        "health": 70.7
+      }
+    },
+    {
+      "id": "FM-138",
+      "label": "GenChem FlowMeter FM-138",
+      "type": "FlowMeter",
+      "attributes": {
+        "area": "Process Area",
+        "health": 62.8
+      }
+    },
+    {
+      "id": "PT-139",
+      "label": "GenChem PressureTransmitter PT-139",
+      "type": "PressureTransmitter",
+      "attributes": {
+        "area": "Control Room",
+        "health": 88.8
+      }
+    },
+    {
+      "id": "P-140",
+      "label": "GenChem Pump P-140",
+      "type": "Pump",
+      "attributes": {
+        "area": "Pump House",
+        "health": 98.7
+      }
+    },
+    {
+      "id": "V-141",
+      "label": "GenChem Valve V-141",
+      "type": "Valve",
+      "attributes": {
+        "area": "Boiler Section",
+        "health": 55.1
+      }
+    },
+    {
+      "id": "C-142",
+      "label": "GenChem Compressor C-142",
+      "type": "Compressor",
+      "attributes": {
+        "area": "Utilities",
+        "health": 79.0
+      }
+    },
+    {
+      "id": "M-143",
+      "label": "GenChem Motor M-143",
+      "type": "Motor",
+      "attributes": {
+        "area": "Cooling Tower",
+        "health": 65.5
+      }
+    },
+    {
+      "id": "HE-144",
+      "label": "GenChem HeatExchanger HE-144",
+      "type": "HeatExchanger",
+      "attributes": {
+        "area": "Compressor Area",
+        "health": 92.8
+      }
+    },
+    {
+      "id": "B-145",
+      "label": "GenChem Boiler B-145",
+      "type": "Boiler",
+      "attributes": {
+        "area": "Tank Farm",
+        "health": 70.0
+      }
+    },
+    {
+      "id": "T-146",
+      "label": "GenChem Tank T-146",
+      "type": "Tank",
+      "attributes": {
+        "area": "Process Area",
+        "health": 69.0
+      }
+    },
+    {
+      "id": "P-147",
+      "label": "GenChem Pipeline P-147",
+      "type": "Pipeline",
+      "attributes": {
+        "area": "Control Room",
+        "health": 73.5
+      }
+    },
+    {
+      "id": "FM-148",
+      "label": "GenChem FlowMeter FM-148",
+      "type": "FlowMeter",
+      "attributes": {
+        "area": "Pump House",
+        "health": 78.7
+      }
+    },
+    {
+      "id": "PT-149",
+      "label": "GenChem PressureTransmitter PT-149",
+      "type": "PressureTransmitter",
+      "attributes": {
+        "area": "Boiler Section",
+        "health": 83.9
+      }
+    },
+    {
+      "id": "P-150",
+      "label": "GenChem Pump P-150",
+      "type": "Pump",
+      "attributes": {
+        "area": "Utilities",
+        "health": 87.8
+      }
+    },
+    {
+      "id": "V-151",
+      "label": "GenChem Valve V-151",
+      "type": "Valve",
+      "attributes": {
+        "area": "Cooling Tower",
+        "health": 59.7
+      }
+    },
+    {
+      "id": "C-152",
+      "label": "GenChem Compressor C-152",
+      "type": "Compressor",
+      "attributes": {
+        "area": "Compressor Area",
+        "health": 93.6
+      }
+    },
+    {
+      "id": "M-153",
+      "label": "GenChem Motor M-153",
+      "type": "Motor",
+      "attributes": {
+        "area": "Tank Farm",
+        "health": 83.6
+      }
+    },
+    {
+      "id": "HE-154",
+      "label": "GenChem HeatExchanger HE-154",
+      "type": "HeatExchanger",
+      "attributes": {
+        "area": "Process Area",
+        "health": 84.3
+      }
+    },
+    {
+      "id": "B-155",
+      "label": "GenChem Boiler B-155",
+      "type": "Boiler",
+      "attributes": {
+        "area": "Control Room",
+        "health": 58.9
+      }
+    },
+    {
+      "id": "T-156",
+      "label": "GenChem Tank T-156",
+      "type": "Tank",
+      "attributes": {
+        "area": "Pump House",
+        "health": 84.2
+      }
+    },
+    {
+      "id": "P-157",
+      "label": "GenChem Pipeline P-157",
+      "type": "Pipeline",
+      "attributes": {
+        "area": "Boiler Section",
+        "health": 83.0
+      }
+    },
+    {
+      "id": "FM-158",
+      "label": "GenChem FlowMeter FM-158",
+      "type": "FlowMeter",
+      "attributes": {
+        "area": "Utilities",
+        "health": 72.1
+      }
+    },
+    {
+      "id": "PT-159",
+      "label": "GenChem PressureTransmitter PT-159",
+      "type": "PressureTransmitter",
+      "attributes": {
+        "area": "Cooling Tower",
+        "health": 63.0
+      }
+    },
+    {
+      "id": "P-160",
+      "label": "GenChem Pump P-160",
+      "type": "Pump",
+      "attributes": {
+        "area": "Compressor Area",
+        "health": 63.3
+      }
+    },
+    {
+      "id": "V-161",
+      "label": "GenChem Valve V-161",
+      "type": "Valve",
+      "attributes": {
+        "area": "Tank Farm",
+        "health": 72.8
+      }
+    },
+    {
+      "id": "C-162",
+      "label": "GenChem Compressor C-162",
+      "type": "Compressor",
+      "attributes": {
+        "area": "Process Area",
+        "health": 59.9
+      }
+    },
+    {
+      "id": "M-163",
+      "label": "GenChem Motor M-163",
+      "type": "Motor",
+      "attributes": {
+        "area": "Control Room",
+        "health": 56.1
+      }
+    },
+    {
+      "id": "HE-164",
+      "label": "GenChem HeatExchanger HE-164",
+      "type": "HeatExchanger",
+      "attributes": {
+        "area": "Pump House",
+        "health": 77.5
+      }
+    },
+    {
+      "id": "B-165",
+      "label": "GenChem Boiler B-165",
+      "type": "Boiler",
+      "attributes": {
+        "area": "Boiler Section",
+        "health": 72.7
+      }
+    },
+    {
+      "id": "T-166",
+      "label": "GenChem Tank T-166",
+      "type": "Tank",
+      "attributes": {
+        "area": "Utilities",
+        "health": 83.7
+      }
+    },
+    {
+      "id": "P-167",
+      "label": "GenChem Pipeline P-167",
+      "type": "Pipeline",
+      "attributes": {
+        "area": "Cooling Tower",
+        "health": 75.3
+      }
+    },
+    {
+      "id": "FM-168",
+      "label": "GenChem FlowMeter FM-168",
+      "type": "FlowMeter",
+      "attributes": {
+        "area": "Compressor Area",
+        "health": 59.1
+      }
+    },
+    {
+      "id": "PT-169",
+      "label": "GenChem PressureTransmitter PT-169",
+      "type": "PressureTransmitter",
+      "attributes": {
+        "area": "Tank Farm",
+        "health": 57.0
+      }
+    },
+    {
+      "id": "P-170",
+      "label": "GenChem Pump P-170",
+      "type": "Pump",
+      "attributes": {
+        "area": "Process Area",
+        "health": 98.4
+      }
+    },
+    {
+      "id": "V-171",
+      "label": "GenChem Valve V-171",
+      "type": "Valve",
+      "attributes": {
+        "area": "Control Room",
+        "health": 73.1
+      }
+    },
+    {
+      "id": "C-172",
+      "label": "GenChem Compressor C-172",
+      "type": "Compressor",
+      "attributes": {
+        "area": "Pump House",
+        "health": 71.2
+      }
+    },
+    {
+      "id": "M-173",
+      "label": "GenChem Motor M-173",
+      "type": "Motor",
+      "attributes": {
+        "area": "Boiler Section",
+        "health": 71.4
+      }
+    },
+    {
+      "id": "HE-174",
+      "label": "GenChem HeatExchanger HE-174",
+      "type": "HeatExchanger",
+      "attributes": {
+        "area": "Utilities",
+        "health": 80.8
+      }
+    },
+    {
+      "id": "B-175",
+      "label": "GenChem Boiler B-175",
+      "type": "Boiler",
+      "attributes": {
+        "area": "Cooling Tower",
+        "health": 72.2
+      }
+    },
+    {
+      "id": "T-176",
+      "label": "GenChem Tank T-176",
+      "type": "Tank",
+      "attributes": {
+        "area": "Compressor Area",
+        "health": 63.5
+      }
+    },
+    {
+      "id": "P-177",
+      "label": "GenChem Pipeline P-177",
+      "type": "Pipeline",
+      "attributes": {
+        "area": "Tank Farm",
+        "health": 83.2
+      }
+    },
+    {
+      "id": "FM-178",
+      "label": "GenChem FlowMeter FM-178",
+      "type": "FlowMeter",
+      "attributes": {
+        "area": "Process Area",
+        "health": 63.3
+      }
+    },
+    {
+      "id": "PT-179",
+      "label": "GenChem PressureTransmitter PT-179",
+      "type": "PressureTransmitter",
+      "attributes": {
+        "area": "Control Room",
+        "health": 65.1
+      }
+    },
+    {
+      "id": "P-180",
+      "label": "GenChem Pump P-180",
+      "type": "Pump",
+      "attributes": {
+        "area": "Pump House",
+        "health": 56.0
+      }
+    },
+    {
+      "id": "V-181",
+      "label": "GenChem Valve V-181",
+      "type": "Valve",
+      "attributes": {
+        "area": "Boiler Section",
+        "health": 85.8
+      }
+    },
+    {
+      "id": "C-182",
+      "label": "GenChem Compressor C-182",
+      "type": "Compressor",
+      "attributes": {
+        "area": "Utilities",
+        "health": 67.3
+      }
+    },
+    {
+      "id": "M-183",
+      "label": "GenChem Motor M-183",
+      "type": "Motor",
+      "attributes": {
+        "area": "Cooling Tower",
+        "health": 93.0
+      }
+    },
+    {
+      "id": "HE-184",
+      "label": "GenChem HeatExchanger HE-184",
+      "type": "HeatExchanger",
+      "attributes": {
+        "area": "Compressor Area",
+        "health": 55.7
+      }
+    },
+    {
+      "id": "B-185",
+      "label": "GenChem Boiler B-185",
+      "type": "Boiler",
+      "attributes": {
+        "area": "Tank Farm",
+        "health": 69.1
+      }
+    },
+    {
+      "id": "T-186",
+      "label": "GenChem Tank T-186",
+      "type": "Tank",
+      "attributes": {
+        "area": "Process Area",
+        "health": 68.1
+      }
+    },
+    {
+      "id": "P-187",
+      "label": "GenChem Pipeline P-187",
+      "type": "Pipeline",
+      "attributes": {
+        "area": "Control Room",
+        "health": 66.1
+      }
+    },
+    {
+      "id": "FM-188",
+      "label": "GenChem FlowMeter FM-188",
+      "type": "FlowMeter",
+      "attributes": {
+        "area": "Pump House",
+        "health": 89.9
+      }
+    },
+    {
+      "id": "PT-189",
+      "label": "GenChem PressureTransmitter PT-189",
+      "type": "PressureTransmitter",
+      "attributes": {
+        "area": "Boiler Section",
+        "health": 67.4
+      }
+    },
+    {
+      "id": "P-190",
+      "label": "GenChem Pump P-190",
+      "type": "Pump",
+      "attributes": {
+        "area": "Utilities",
+        "health": 96.1
+      }
+    },
+    {
+      "id": "V-191",
+      "label": "GenChem Valve V-191",
+      "type": "Valve",
+      "attributes": {
+        "area": "Cooling Tower",
+        "health": 77.4
+      }
+    },
+    {
+      "id": "C-192",
+      "label": "GenChem Compressor C-192",
+      "type": "Compressor",
+      "attributes": {
+        "area": "Compressor Area",
+        "health": 75.8
+      }
+    },
+    {
+      "id": "M-193",
+      "label": "GenChem Motor M-193",
+      "type": "Motor",
+      "attributes": {
+        "area": "Tank Farm",
+        "health": 77.9
+      }
+    },
+    {
+      "id": "HE-194",
+      "label": "GenChem HeatExchanger HE-194",
+      "type": "HeatExchanger",
+      "attributes": {
+        "area": "Process Area",
+        "health": 79.0
+      }
+    },
+    {
+      "id": "B-195",
+      "label": "GenChem Boiler B-195",
+      "type": "Boiler",
+      "attributes": {
+        "area": "Control Room",
+        "health": 57.1
+      }
+    },
+    {
+      "id": "T-196",
+      "label": "GenChem Tank T-196",
+      "type": "Tank",
+      "attributes": {
+        "area": "Pump House",
+        "health": 69.4
+      }
+    },
+    {
+      "id": "P-197",
+      "label": "GenChem Pipeline P-197",
+      "type": "Pipeline",
+      "attributes": {
+        "area": "Boiler Section",
+        "health": 77.1
+      }
+    },
+    {
+      "id": "FM-198",
+      "label": "GenChem FlowMeter FM-198",
+      "type": "FlowMeter",
+      "attributes": {
+        "area": "Utilities",
+        "health": 97.4
+      }
+    },
+    {
+      "id": "PT-199",
+      "label": "GenChem PressureTransmitter PT-199",
+      "type": "PressureTransmitter",
+      "attributes": {
+        "area": "Cooling Tower",
+        "health": 69.3
+      }
+    },
+    {
+      "id": "P-200",
+      "label": "GenChem Pump P-200",
+      "type": "Pump",
+      "attributes": {
+        "area": "Compressor Area",
+        "health": 85.1
+      }
+    },
+    {
+      "id": "V-201",
+      "label": "GenChem Valve V-201",
+      "type": "Valve",
+      "attributes": {
+        "area": "Tank Farm",
+        "health": 73.8
+      }
+    },
+    {
+      "id": "C-202",
+      "label": "GenChem Compressor C-202",
+      "type": "Compressor",
+      "attributes": {
+        "area": "Process Area",
+        "health": 87.7
+      }
+    },
+    {
+      "id": "M-203",
+      "label": "GenChem Motor M-203",
+      "type": "Motor",
+      "attributes": {
+        "area": "Control Room",
+        "health": 93.3
+      }
+    },
+    {
+      "id": "HE-204",
+      "label": "GenChem HeatExchanger HE-204",
+      "type": "HeatExchanger",
+      "attributes": {
+        "area": "Pump House",
+        "health": 83.8
+      }
+    },
+    {
+      "id": "B-205",
+      "label": "GenChem Boiler B-205",
+      "type": "Boiler",
+      "attributes": {
+        "area": "Boiler Section",
+        "health": 72.1
+      }
+    },
+    {
+      "id": "T-206",
+      "label": "GenChem Tank T-206",
+      "type": "Tank",
+      "attributes": {
+        "area": "Utilities",
+        "health": 92.9
+      }
+    },
+    {
+      "id": "P-207",
+      "label": "GenChem Pipeline P-207",
+      "type": "Pipeline",
+      "attributes": {
+        "area": "Cooling Tower",
+        "health": 77.2
+      }
+    },
+    {
+      "id": "FM-208",
+      "label": "GenChem FlowMeter FM-208",
+      "type": "FlowMeter",
+      "attributes": {
+        "area": "Compressor Area",
+        "health": 91.2
+      }
+    },
+    {
+      "id": "PT-209",
+      "label": "GenChem PressureTransmitter PT-209",
+      "type": "PressureTransmitter",
+      "attributes": {
+        "area": "Tank Farm",
+        "health": 61.7
+      }
+    },
+    {
+      "id": "P-210",
+      "label": "GenChem Pump P-210",
+      "type": "Pump",
+      "attributes": {
+        "area": "Process Area",
+        "health": 55.7
+      }
+    },
+    {
+      "id": "V-211",
+      "label": "GenChem Valve V-211",
+      "type": "Valve",
+      "attributes": {
+        "area": "Control Room",
+        "health": 91.2
+      }
+    },
+    {
+      "id": "C-212",
+      "label": "GenChem Compressor C-212",
+      "type": "Compressor",
+      "attributes": {
+        "area": "Pump House",
+        "health": 73.1
+      }
+    },
+    {
+      "id": "M-213",
+      "label": "GenChem Motor M-213",
+      "type": "Motor",
+      "attributes": {
+        "area": "Boiler Section",
+        "health": 72.1
+      }
+    },
+    {
+      "id": "HE-214",
+      "label": "GenChem HeatExchanger HE-214",
+      "type": "HeatExchanger",
+      "attributes": {
+        "area": "Utilities",
+        "health": 74.9
+      }
+    },
+    {
+      "id": "B-215",
+      "label": "GenChem Boiler B-215",
+      "type": "Boiler",
+      "attributes": {
+        "area": "Cooling Tower",
+        "health": 83.2
+      }
+    },
+    {
+      "id": "T-216",
+      "label": "GenChem Tank T-216",
+      "type": "Tank",
+      "attributes": {
+        "area": "Compressor Area",
+        "health": 81.0
+      }
+    },
+    {
+      "id": "P-217",
+      "label": "GenChem Pipeline P-217",
+      "type": "Pipeline",
+      "attributes": {
+        "area": "Tank Farm",
+        "health": 69.6
+      }
+    },
+    {
+      "id": "FM-218",
+      "label": "GenChem FlowMeter FM-218",
+      "type": "FlowMeter",
+      "attributes": {
+        "area": "Process Area",
+        "health": 92.7
+      }
+    },
+    {
+      "id": "PT-219",
+      "label": "GenChem PressureTransmitter PT-219",
+      "type": "PressureTransmitter",
+      "attributes": {
+        "area": "Control Room",
+        "health": 98.7
+      }
+    },
+    {
+      "id": "P-220",
+      "label": "GenChem Pump P-220",
+      "type": "Pump",
+      "attributes": {
+        "area": "Pump House",
+        "health": 56.0
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "V-101",
+      "target": "C-102",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "V-101",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "C-102",
+      "target": "M-103",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "M-103",
+      "target": "HE-104",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "HE-104",
+      "target": "B-105",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "HE-104",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "B-105",
+      "target": "T-106",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "T-106",
+      "target": "P-107",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-107",
+      "target": "FM-108",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-107",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "FM-108",
+      "target": "PT-109",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "PT-109",
+      "target": "P-110",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-110",
+      "target": "V-111",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-110",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "V-111",
+      "target": "C-112",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "C-112",
+      "target": "M-113",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "M-113",
+      "target": "HE-114",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "M-113",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "HE-114",
+      "target": "B-115",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "B-115",
+      "target": "T-116",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "T-116",
+      "target": "P-117",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "T-116",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "P-117",
+      "target": "FM-118",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "FM-118",
+      "target": "PT-119",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "PT-119",
+      "target": "P-120",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "PT-119",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "P-120",
+      "target": "V-121",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "V-121",
+      "target": "C-122",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "C-122",
+      "target": "M-123",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "C-122",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "M-123",
+      "target": "HE-124",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "HE-124",
+      "target": "B-125",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "B-125",
+      "target": "T-126",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "B-125",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "T-126",
+      "target": "P-127",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-127",
+      "target": "FM-128",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "FM-128",
+      "target": "PT-129",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "FM-128",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "PT-129",
+      "target": "P-130",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-130",
+      "target": "V-131",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "V-131",
+      "target": "C-132",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "V-131",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "C-132",
+      "target": "M-133",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "M-133",
+      "target": "HE-134",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "HE-134",
+      "target": "B-135",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "HE-134",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "B-135",
+      "target": "T-136",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "T-136",
+      "target": "P-137",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-137",
+      "target": "FM-138",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-137",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "FM-138",
+      "target": "PT-139",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "PT-139",
+      "target": "P-140",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-140",
+      "target": "V-141",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-140",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "V-141",
+      "target": "C-142",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "C-142",
+      "target": "M-143",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "M-143",
+      "target": "HE-144",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "M-143",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "HE-144",
+      "target": "B-145",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "B-145",
+      "target": "T-146",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "T-146",
+      "target": "P-147",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "T-146",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "P-147",
+      "target": "FM-148",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "FM-148",
+      "target": "PT-149",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "PT-149",
+      "target": "P-150",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "PT-149",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "P-150",
+      "target": "V-151",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "V-151",
+      "target": "C-152",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "C-152",
+      "target": "M-153",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "C-152",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "M-153",
+      "target": "HE-154",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "HE-154",
+      "target": "B-155",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "B-155",
+      "target": "T-156",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "B-155",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "T-156",
+      "target": "P-157",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-157",
+      "target": "FM-158",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "FM-158",
+      "target": "PT-159",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "FM-158",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "PT-159",
+      "target": "P-160",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-160",
+      "target": "V-161",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "V-161",
+      "target": "C-162",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "V-161",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "C-162",
+      "target": "M-163",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "M-163",
+      "target": "HE-164",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "HE-164",
+      "target": "B-165",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "HE-164",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "B-165",
+      "target": "T-166",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "T-166",
+      "target": "P-167",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-167",
+      "target": "FM-168",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-167",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "FM-168",
+      "target": "PT-169",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "PT-169",
+      "target": "P-170",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-170",
+      "target": "V-171",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-170",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "V-171",
+      "target": "C-172",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "C-172",
+      "target": "M-173",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "M-173",
+      "target": "HE-174",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "M-173",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "HE-174",
+      "target": "B-175",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "B-175",
+      "target": "T-176",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "T-176",
+      "target": "P-177",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "T-176",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "P-177",
+      "target": "FM-178",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "FM-178",
+      "target": "PT-179",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "PT-179",
+      "target": "P-180",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "PT-179",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "P-180",
+      "target": "V-181",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "V-181",
+      "target": "C-182",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "C-182",
+      "target": "M-183",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "C-182",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "M-183",
+      "target": "HE-184",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "HE-184",
+      "target": "B-185",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "B-185",
+      "target": "T-186",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "B-185",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "T-186",
+      "target": "P-187",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-187",
+      "target": "FM-188",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "FM-188",
+      "target": "PT-189",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "FM-188",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "PT-189",
+      "target": "P-190",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-190",
+      "target": "V-191",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "V-191",
+      "target": "C-192",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "V-191",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "C-192",
+      "target": "M-193",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "M-193",
+      "target": "HE-194",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "HE-194",
+      "target": "B-195",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "HE-194",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "B-195",
+      "target": "T-196",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "T-196",
+      "target": "P-197",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-197",
+      "target": "FM-198",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-197",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "FM-198",
+      "target": "PT-199",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "PT-199",
+      "target": "P-200",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-200",
+      "target": "V-201",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-200",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "V-201",
+      "target": "C-202",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "C-202",
+      "target": "M-203",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "M-203",
+      "target": "HE-204",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "M-203",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "HE-204",
+      "target": "B-205",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "B-205",
+      "target": "T-206",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "T-206",
+      "target": "P-207",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "T-206",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "P-207",
+      "target": "FM-208",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "FM-208",
+      "target": "PT-209",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "PT-209",
+      "target": "P-210",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "PT-209",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "P-210",
+      "target": "V-211",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "V-211",
+      "target": "C-212",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "C-212",
+      "target": "M-213",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "C-212",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "M-213",
+      "target": "HE-214",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "HE-214",
+      "target": "B-215",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "B-215",
+      "target": "T-216",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "B-215",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "T-216",
+      "target": "P-217",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "P-217",
+      "target": "FM-218",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "FM-218",
+      "target": "PT-219",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    },
+    {
+      "source": "FM-218",
+      "target": "DOC-OEM-1",
+      "type": "DOCUMENTED_IN",
+      "attributes": {
+        "section": "Manual"
+      }
+    },
+    {
+      "source": "PT-219",
+      "target": "P-220",
+      "type": "CONNECTED_TO",
+      "attributes": {
+        "line": "High Pressure Fluid Header"
+      }
+    }
+  ]
+}

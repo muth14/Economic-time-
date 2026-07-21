@@ -1,0 +1,4162 @@
+[
+  {
+    "asset_id": "V-101",
+    "equipment_name": "GenChem Valve V-101",
+    "plant_area": "Boiler Section",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-991",
+    "serial_number": "SN-2021-88001",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-103",
+      "T-104"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 90.8,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 136,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-V-101",
+    "ai_summary": "Master Equipment DNA for V-101: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "C-102",
+    "equipment_name": "GenChem Compressor C-102",
+    "plant_area": "Utilities",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-992",
+    "serial_number": "SN-2021-88002",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-104",
+      "T-105"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 78.9,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 118,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-C-102",
+    "ai_summary": "Master Equipment DNA for C-102: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "M-103",
+    "equipment_name": "GenChem Motor M-103",
+    "plant_area": "Cooling Tower",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-993",
+    "serial_number": "SN-2021-88003",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-105",
+      "T-106"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 94.4,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 141,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-M-103",
+    "ai_summary": "Master Equipment DNA for M-103: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "HE-104",
+    "equipment_name": "GenChem HeatExchanger HE-104",
+    "plant_area": "Compressor Area",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-994",
+    "serial_number": "SN-2021-88004",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-106",
+      "T-107"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 74.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 111,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-HE-104",
+    "ai_summary": "Master Equipment DNA for HE-104: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "B-105",
+    "equipment_name": "GenChem Boiler B-105",
+    "plant_area": "Tank Farm",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-995",
+    "serial_number": "SN-2021-88005",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-107",
+      "T-108"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 84.6,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 126,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-B-105",
+    "ai_summary": "Master Equipment DNA for B-105: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-106",
+    "equipment_name": "GenChem Tank T-106",
+    "plant_area": "Process Area",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-996",
+    "serial_number": "SN-2021-88006",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-108",
+      "T-109"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 73.1,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 109,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-106",
+    "ai_summary": "Master Equipment DNA for T-106: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-107",
+    "equipment_name": "GenChem Pipeline P-107",
+    "plant_area": "Control Room",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-997",
+    "serial_number": "SN-2021-88007",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-109",
+      "T-110"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 79.1,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 118,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-107",
+    "ai_summary": "Master Equipment DNA for P-107: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "PT-108",
+    "equipment_name": "GenChem PressureTransmitter PT-108",
+    "plant_area": "Pump House",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-998",
+    "serial_number": "SN-2021-88008",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-110",
+      "T-111"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 94.6,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 141,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-PT-108",
+    "ai_summary": "Master Equipment DNA for PT-108: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "FM-109",
+    "equipment_name": "GenChem FlowMeter FM-109",
+    "plant_area": "Boiler Section",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-999",
+    "serial_number": "SN-2021-88009",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-111",
+      "T-112"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 75.6,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 113,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-FM-109",
+    "ai_summary": "Master Equipment DNA for FM-109: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-110",
+    "equipment_name": "GenChem TemperatureSensor T-110",
+    "plant_area": "Utilities",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-9910",
+    "serial_number": "SN-2021-88010",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-112",
+      "T-113"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 93.4,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 140,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-110",
+    "ai_summary": "Master Equipment DNA for T-110: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "CV-111",
+    "equipment_name": "GenChem ControlValve CV-111",
+    "plant_area": "Cooling Tower",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-9911",
+    "serial_number": "SN-2021-88011",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-113",
+      "T-114"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 71.5,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 107,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-CV-111",
+    "ai_summary": "Master Equipment DNA for CV-111: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "SV-112",
+    "equipment_name": "GenChem SafetyValve SV-112",
+    "plant_area": "Compressor Area",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-9912",
+    "serial_number": "SN-2021-88012",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-114",
+      "T-115"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 94.3,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 141,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-SV-112",
+    "ai_summary": "Master Equipment DNA for SV-112: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-113",
+    "equipment_name": "GenChem Pump P-113",
+    "plant_area": "Tank Farm",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-9913",
+    "serial_number": "SN-2021-88013",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 85,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-115",
+      "T-116"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 86.5,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 129,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-113",
+    "ai_summary": "Master Equipment DNA for P-113: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "V-114",
+    "equipment_name": "GenChem Valve V-114",
+    "plant_area": "Process Area",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-9914",
+    "serial_number": "SN-2021-88014",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-116",
+      "T-117"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 90.0,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 135,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-V-114",
+    "ai_summary": "Master Equipment DNA for V-114: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "C-115",
+    "equipment_name": "GenChem Compressor C-115",
+    "plant_area": "Control Room",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-9915",
+    "serial_number": "SN-2021-88015",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-117",
+      "T-118"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 73.6,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 110,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-C-115",
+    "ai_summary": "Master Equipment DNA for C-115: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "M-116",
+    "equipment_name": "GenChem Motor M-116",
+    "plant_area": "Pump House",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-9916",
+    "serial_number": "SN-2021-88016",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-118",
+      "T-119"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 95.9,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 143,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-M-116",
+    "ai_summary": "Master Equipment DNA for M-116: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "HE-117",
+    "equipment_name": "GenChem HeatExchanger HE-117",
+    "plant_area": "Boiler Section",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-9917",
+    "serial_number": "SN-2021-88017",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-119",
+      "T-120"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 85.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 127,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-HE-117",
+    "ai_summary": "Master Equipment DNA for HE-117: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "B-118",
+    "equipment_name": "GenChem Boiler B-118",
+    "plant_area": "Utilities",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-9918",
+    "serial_number": "SN-2021-88018",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-120",
+      "T-121"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 75.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 112,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-B-118",
+    "ai_summary": "Master Equipment DNA for B-118: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-119",
+    "equipment_name": "GenChem Tank T-119",
+    "plant_area": "Cooling Tower",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-9919",
+    "serial_number": "SN-2021-88019",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-121",
+      "T-122"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 74.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 111,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-119",
+    "ai_summary": "Master Equipment DNA for T-119: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-120",
+    "equipment_name": "GenChem Pipeline P-120",
+    "plant_area": "Compressor Area",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-9920",
+    "serial_number": "SN-2021-88020",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-122",
+      "T-123"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 81.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 121,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-120",
+    "ai_summary": "Master Equipment DNA for P-120: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "PT-121",
+    "equipment_name": "GenChem PressureTransmitter PT-121",
+    "plant_area": "Tank Farm",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-9921",
+    "serial_number": "SN-2021-88021",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-123",
+      "T-124"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 89.1,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 133,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-PT-121",
+    "ai_summary": "Master Equipment DNA for PT-121: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "FM-122",
+    "equipment_name": "GenChem FlowMeter FM-122",
+    "plant_area": "Process Area",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-9922",
+    "serial_number": "SN-2021-88022",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-124",
+      "T-125"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 87.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 130,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-FM-122",
+    "ai_summary": "Master Equipment DNA for FM-122: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-123",
+    "equipment_name": "GenChem TemperatureSensor T-123",
+    "plant_area": "Control Room",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-9923",
+    "serial_number": "SN-2021-88023",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-125",
+      "T-126"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 97.1,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 145,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-123",
+    "ai_summary": "Master Equipment DNA for T-123: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "CV-124",
+    "equipment_name": "GenChem ControlValve CV-124",
+    "plant_area": "Pump House",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-9924",
+    "serial_number": "SN-2021-88024",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-126",
+      "T-127"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 85.0,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 127,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-CV-124",
+    "ai_summary": "Master Equipment DNA for CV-124: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "SV-125",
+    "equipment_name": "GenChem SafetyValve SV-125",
+    "plant_area": "Boiler Section",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-9925",
+    "serial_number": "SN-2021-88025",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-127",
+      "T-128"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 94.9,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 142,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-SV-125",
+    "ai_summary": "Master Equipment DNA for SV-125: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-126",
+    "equipment_name": "GenChem Pump P-126",
+    "plant_area": "Utilities",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-9926",
+    "serial_number": "SN-2021-88026",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 85,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-128",
+      "T-129"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 94.7,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 142,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-126",
+    "ai_summary": "Master Equipment DNA for P-126: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "V-127",
+    "equipment_name": "GenChem Valve V-127",
+    "plant_area": "Cooling Tower",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-9927",
+    "serial_number": "SN-2021-88027",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-129",
+      "T-130"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 86.8,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 130,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-V-127",
+    "ai_summary": "Master Equipment DNA for V-127: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "C-128",
+    "equipment_name": "GenChem Compressor C-128",
+    "plant_area": "Compressor Area",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-9928",
+    "serial_number": "SN-2021-88028",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-130",
+      "T-131"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 88.7,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 133,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-C-128",
+    "ai_summary": "Master Equipment DNA for C-128: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "M-129",
+    "equipment_name": "GenChem Motor M-129",
+    "plant_area": "Tank Farm",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-9929",
+    "serial_number": "SN-2021-88029",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-131",
+      "T-132"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 86.1,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 129,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-M-129",
+    "ai_summary": "Master Equipment DNA for M-129: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "HE-130",
+    "equipment_name": "GenChem HeatExchanger HE-130",
+    "plant_area": "Process Area",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-9930",
+    "serial_number": "SN-2021-88030",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-132",
+      "T-133"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 77.1,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 115,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-HE-130",
+    "ai_summary": "Master Equipment DNA for HE-130: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "B-131",
+    "equipment_name": "GenChem Boiler B-131",
+    "plant_area": "Control Room",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-9931",
+    "serial_number": "SN-2021-88031",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-133",
+      "T-134"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 71.4,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 107,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-B-131",
+    "ai_summary": "Master Equipment DNA for B-131: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-132",
+    "equipment_name": "GenChem Tank T-132",
+    "plant_area": "Pump House",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-9932",
+    "serial_number": "SN-2021-88032",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-134",
+      "T-135"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 93.5,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 140,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-132",
+    "ai_summary": "Master Equipment DNA for T-132: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-133",
+    "equipment_name": "GenChem Pipeline P-133",
+    "plant_area": "Boiler Section",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-9933",
+    "serial_number": "SN-2021-88033",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-135",
+      "T-136"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 79.0,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 118,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-133",
+    "ai_summary": "Master Equipment DNA for P-133: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "PT-134",
+    "equipment_name": "GenChem PressureTransmitter PT-134",
+    "plant_area": "Utilities",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-9934",
+    "serial_number": "SN-2021-88034",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-136",
+      "T-137"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 84.7,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 127,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-PT-134",
+    "ai_summary": "Master Equipment DNA for PT-134: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "FM-135",
+    "equipment_name": "GenChem FlowMeter FM-135",
+    "plant_area": "Cooling Tower",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-9935",
+    "serial_number": "SN-2021-88035",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-137",
+      "T-138"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 72.6,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 108,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-FM-135",
+    "ai_summary": "Master Equipment DNA for FM-135: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-136",
+    "equipment_name": "GenChem TemperatureSensor T-136",
+    "plant_area": "Compressor Area",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-9936",
+    "serial_number": "SN-2021-88036",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-138",
+      "T-139"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 97.5,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 146,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-136",
+    "ai_summary": "Master Equipment DNA for T-136: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "CV-137",
+    "equipment_name": "GenChem ControlValve CV-137",
+    "plant_area": "Tank Farm",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-9937",
+    "serial_number": "SN-2021-88037",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-139",
+      "T-140"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 77.5,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 116,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-CV-137",
+    "ai_summary": "Master Equipment DNA for CV-137: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "SV-138",
+    "equipment_name": "GenChem SafetyValve SV-138",
+    "plant_area": "Process Area",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-9938",
+    "serial_number": "SN-2021-88038",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-140",
+      "T-141"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 87.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 130,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-SV-138",
+    "ai_summary": "Master Equipment DNA for SV-138: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-139",
+    "equipment_name": "GenChem Pump P-139",
+    "plant_area": "Control Room",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-9939",
+    "serial_number": "SN-2021-88039",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 85,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-141",
+      "T-142"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 95.3,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 142,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-139",
+    "ai_summary": "Master Equipment DNA for P-139: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "V-140",
+    "equipment_name": "GenChem Valve V-140",
+    "plant_area": "Pump House",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-9940",
+    "serial_number": "SN-2021-88040",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-142",
+      "T-143"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 92.8,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 139,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-V-140",
+    "ai_summary": "Master Equipment DNA for V-140: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "C-141",
+    "equipment_name": "GenChem Compressor C-141",
+    "plant_area": "Boiler Section",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-9941",
+    "serial_number": "SN-2021-88041",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-143",
+      "T-144"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 84.5,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 126,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-C-141",
+    "ai_summary": "Master Equipment DNA for C-141: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "M-142",
+    "equipment_name": "GenChem Motor M-142",
+    "plant_area": "Utilities",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-9942",
+    "serial_number": "SN-2021-88042",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-144",
+      "T-145"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 98.5,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 147,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-M-142",
+    "ai_summary": "Master Equipment DNA for M-142: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "HE-143",
+    "equipment_name": "GenChem HeatExchanger HE-143",
+    "plant_area": "Cooling Tower",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-9943",
+    "serial_number": "SN-2021-88043",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-145",
+      "T-146"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 71.7,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 107,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-HE-143",
+    "ai_summary": "Master Equipment DNA for HE-143: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "B-144",
+    "equipment_name": "GenChem Boiler B-144",
+    "plant_area": "Compressor Area",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-9944",
+    "serial_number": "SN-2021-88044",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-146",
+      "T-147"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 70.9,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 106,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-B-144",
+    "ai_summary": "Master Equipment DNA for B-144: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-145",
+    "equipment_name": "GenChem Tank T-145",
+    "plant_area": "Tank Farm",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-9945",
+    "serial_number": "SN-2021-88045",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-147",
+      "T-148"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 76.4,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 114,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-145",
+    "ai_summary": "Master Equipment DNA for T-145: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-146",
+    "equipment_name": "GenChem Pipeline P-146",
+    "plant_area": "Process Area",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-9946",
+    "serial_number": "SN-2021-88046",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-148",
+      "T-149"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 75.7,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 113,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-146",
+    "ai_summary": "Master Equipment DNA for P-146: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "PT-147",
+    "equipment_name": "GenChem PressureTransmitter PT-147",
+    "plant_area": "Control Room",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-9947",
+    "serial_number": "SN-2021-88047",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-149",
+      "T-150"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 83.8,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 125,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-PT-147",
+    "ai_summary": "Master Equipment DNA for PT-147: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "FM-148",
+    "equipment_name": "GenChem FlowMeter FM-148",
+    "plant_area": "Pump House",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-9948",
+    "serial_number": "SN-2021-88048",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-150",
+      "T-151"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 94.3,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 141,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-FM-148",
+    "ai_summary": "Master Equipment DNA for FM-148: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-149",
+    "equipment_name": "GenChem TemperatureSensor T-149",
+    "plant_area": "Boiler Section",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-9949",
+    "serial_number": "SN-2021-88049",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-151",
+      "T-152"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 95.9,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 143,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-149",
+    "ai_summary": "Master Equipment DNA for T-149: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "CV-150",
+    "equipment_name": "GenChem ControlValve CV-150",
+    "plant_area": "Utilities",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-9950",
+    "serial_number": "SN-2021-88050",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-152",
+      "T-153"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 90.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 135,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-CV-150",
+    "ai_summary": "Master Equipment DNA for CV-150: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "SV-151",
+    "equipment_name": "GenChem SafetyValve SV-151",
+    "plant_area": "Cooling Tower",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-9951",
+    "serial_number": "SN-2021-88051",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-153",
+      "T-154"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 98.1,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 147,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-SV-151",
+    "ai_summary": "Master Equipment DNA for SV-151: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-152",
+    "equipment_name": "GenChem Pump P-152",
+    "plant_area": "Compressor Area",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-9952",
+    "serial_number": "SN-2021-88052",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 85,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-154",
+      "T-155"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 90.8,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 136,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-152",
+    "ai_summary": "Master Equipment DNA for P-152: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "V-153",
+    "equipment_name": "GenChem Valve V-153",
+    "plant_area": "Tank Farm",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-9953",
+    "serial_number": "SN-2021-88053",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-155",
+      "T-156"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 70.7,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 106,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-V-153",
+    "ai_summary": "Master Equipment DNA for V-153: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "C-154",
+    "equipment_name": "GenChem Compressor C-154",
+    "plant_area": "Process Area",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-9954",
+    "serial_number": "SN-2021-88054",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-156",
+      "T-157"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 86.0,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 129,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-C-154",
+    "ai_summary": "Master Equipment DNA for C-154: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "M-155",
+    "equipment_name": "GenChem Motor M-155",
+    "plant_area": "Control Room",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-9955",
+    "serial_number": "SN-2021-88055",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-157",
+      "T-158"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 78.0,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 117,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-M-155",
+    "ai_summary": "Master Equipment DNA for M-155: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "HE-156",
+    "equipment_name": "GenChem HeatExchanger HE-156",
+    "plant_area": "Pump House",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-9956",
+    "serial_number": "SN-2021-88056",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-158",
+      "T-159"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 75.6,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 113,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-HE-156",
+    "ai_summary": "Master Equipment DNA for HE-156: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "B-157",
+    "equipment_name": "GenChem Boiler B-157",
+    "plant_area": "Boiler Section",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-9957",
+    "serial_number": "SN-2021-88057",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-159",
+      "T-160"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 86.8,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 130,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-B-157",
+    "ai_summary": "Master Equipment DNA for B-157: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-158",
+    "equipment_name": "GenChem Tank T-158",
+    "plant_area": "Utilities",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-9958",
+    "serial_number": "SN-2021-88058",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-160",
+      "T-161"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 94.5,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 141,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-158",
+    "ai_summary": "Master Equipment DNA for T-158: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-159",
+    "equipment_name": "GenChem Pipeline P-159",
+    "plant_area": "Cooling Tower",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-9959",
+    "serial_number": "SN-2021-88059",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-161",
+      "T-162"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 88.3,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 132,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-159",
+    "ai_summary": "Master Equipment DNA for P-159: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "PT-160",
+    "equipment_name": "GenChem PressureTransmitter PT-160",
+    "plant_area": "Compressor Area",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-9960",
+    "serial_number": "SN-2021-88060",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-162",
+      "T-163"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 78.5,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 117,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-PT-160",
+    "ai_summary": "Master Equipment DNA for PT-160: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "FM-161",
+    "equipment_name": "GenChem FlowMeter FM-161",
+    "plant_area": "Tank Farm",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-9961",
+    "serial_number": "SN-2021-88061",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-163",
+      "T-164"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 74.9,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 112,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-FM-161",
+    "ai_summary": "Master Equipment DNA for FM-161: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-162",
+    "equipment_name": "GenChem TemperatureSensor T-162",
+    "plant_area": "Process Area",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-9962",
+    "serial_number": "SN-2021-88062",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-164",
+      "T-165"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 71.7,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 107,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-162",
+    "ai_summary": "Master Equipment DNA for T-162: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "CV-163",
+    "equipment_name": "GenChem ControlValve CV-163",
+    "plant_area": "Control Room",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-9963",
+    "serial_number": "SN-2021-88063",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-165",
+      "T-166"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 92.3,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 138,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-CV-163",
+    "ai_summary": "Master Equipment DNA for CV-163: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "SV-164",
+    "equipment_name": "GenChem SafetyValve SV-164",
+    "plant_area": "Pump House",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-9964",
+    "serial_number": "SN-2021-88064",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-166",
+      "T-167"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 87.6,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 131,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-SV-164",
+    "ai_summary": "Master Equipment DNA for SV-164: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-165",
+    "equipment_name": "GenChem Pump P-165",
+    "plant_area": "Boiler Section",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-9965",
+    "serial_number": "SN-2021-88065",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 85,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-167",
+      "T-168"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 72.8,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 109,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-165",
+    "ai_summary": "Master Equipment DNA for P-165: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "V-166",
+    "equipment_name": "GenChem Valve V-166",
+    "plant_area": "Utilities",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-9966",
+    "serial_number": "SN-2021-88066",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-168",
+      "T-169"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 82.1,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 123,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-V-166",
+    "ai_summary": "Master Equipment DNA for V-166: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "C-167",
+    "equipment_name": "GenChem Compressor C-167",
+    "plant_area": "Cooling Tower",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-9967",
+    "serial_number": "SN-2021-88067",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-169",
+      "T-170"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 92.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 138,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-C-167",
+    "ai_summary": "Master Equipment DNA for C-167: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "M-168",
+    "equipment_name": "GenChem Motor M-168",
+    "plant_area": "Compressor Area",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-9968",
+    "serial_number": "SN-2021-88068",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-170",
+      "T-171"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 81.8,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 122,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-M-168",
+    "ai_summary": "Master Equipment DNA for M-168: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "HE-169",
+    "equipment_name": "GenChem HeatExchanger HE-169",
+    "plant_area": "Tank Farm",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-9969",
+    "serial_number": "SN-2021-88069",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-171",
+      "T-172"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 88.9,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 133,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-HE-169",
+    "ai_summary": "Master Equipment DNA for HE-169: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "B-170",
+    "equipment_name": "GenChem Boiler B-170",
+    "plant_area": "Process Area",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-9970",
+    "serial_number": "SN-2021-88070",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-172",
+      "T-173"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 72.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 108,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-B-170",
+    "ai_summary": "Master Equipment DNA for B-170: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-171",
+    "equipment_name": "GenChem Tank T-171",
+    "plant_area": "Control Room",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-9971",
+    "serial_number": "SN-2021-88071",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-173",
+      "T-174"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 95.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 142,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-171",
+    "ai_summary": "Master Equipment DNA for T-171: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-172",
+    "equipment_name": "GenChem Pipeline P-172",
+    "plant_area": "Pump House",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-9972",
+    "serial_number": "SN-2021-88072",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-174",
+      "T-175"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 88.8,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 133,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-172",
+    "ai_summary": "Master Equipment DNA for P-172: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "PT-173",
+    "equipment_name": "GenChem PressureTransmitter PT-173",
+    "plant_area": "Boiler Section",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-9973",
+    "serial_number": "SN-2021-88073",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-175",
+      "T-176"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 94.5,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 141,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-PT-173",
+    "ai_summary": "Master Equipment DNA for PT-173: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "FM-174",
+    "equipment_name": "GenChem FlowMeter FM-174",
+    "plant_area": "Utilities",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-9974",
+    "serial_number": "SN-2021-88074",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-176",
+      "T-177"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 95.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 142,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-FM-174",
+    "ai_summary": "Master Equipment DNA for FM-174: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-175",
+    "equipment_name": "GenChem TemperatureSensor T-175",
+    "plant_area": "Cooling Tower",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-9975",
+    "serial_number": "SN-2021-88075",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-177",
+      "T-178"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 86.5,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 129,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-175",
+    "ai_summary": "Master Equipment DNA for T-175: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "CV-176",
+    "equipment_name": "GenChem ControlValve CV-176",
+    "plant_area": "Compressor Area",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-9976",
+    "serial_number": "SN-2021-88076",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-178",
+      "T-179"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 90.7,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 136,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-CV-176",
+    "ai_summary": "Master Equipment DNA for CV-176: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "SV-177",
+    "equipment_name": "GenChem SafetyValve SV-177",
+    "plant_area": "Tank Farm",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-9977",
+    "serial_number": "SN-2021-88077",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-179",
+      "T-180"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 96.6,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 144,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-SV-177",
+    "ai_summary": "Master Equipment DNA for SV-177: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-178",
+    "equipment_name": "GenChem Pump P-178",
+    "plant_area": "Process Area",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-9978",
+    "serial_number": "SN-2021-88078",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 85,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-180",
+      "T-181"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 94.7,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 142,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-178",
+    "ai_summary": "Master Equipment DNA for P-178: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "V-179",
+    "equipment_name": "GenChem Valve V-179",
+    "plant_area": "Control Room",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-9979",
+    "serial_number": "SN-2021-88079",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-181",
+      "T-182"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 82.0,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 122,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-V-179",
+    "ai_summary": "Master Equipment DNA for V-179: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "C-180",
+    "equipment_name": "GenChem Compressor C-180",
+    "plant_area": "Pump House",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-9980",
+    "serial_number": "SN-2021-88080",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-182",
+      "T-183"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 71.4,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 107,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-C-180",
+    "ai_summary": "Master Equipment DNA for C-180: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "M-181",
+    "equipment_name": "GenChem Motor M-181",
+    "plant_area": "Boiler Section",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-9981",
+    "serial_number": "SN-2021-88081",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-183",
+      "T-184"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 84.3,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 126,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-M-181",
+    "ai_summary": "Master Equipment DNA for M-181: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "HE-182",
+    "equipment_name": "GenChem HeatExchanger HE-182",
+    "plant_area": "Utilities",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-9982",
+    "serial_number": "SN-2021-88082",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-184",
+      "T-185"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 79.7,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 119,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-HE-182",
+    "ai_summary": "Master Equipment DNA for HE-182: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "B-183",
+    "equipment_name": "GenChem Boiler B-183",
+    "plant_area": "Cooling Tower",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-9983",
+    "serial_number": "SN-2021-88083",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-185",
+      "T-186"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 95.9,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 143,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-B-183",
+    "ai_summary": "Master Equipment DNA for B-183: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-184",
+    "equipment_name": "GenChem Tank T-184",
+    "plant_area": "Compressor Area",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-9984",
+    "serial_number": "SN-2021-88084",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-186",
+      "T-187"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 71.7,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 107,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-184",
+    "ai_summary": "Master Equipment DNA for T-184: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-185",
+    "equipment_name": "GenChem Pipeline P-185",
+    "plant_area": "Tank Farm",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-9985",
+    "serial_number": "SN-2021-88085",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-187",
+      "T-188"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 75.0,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 112,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-185",
+    "ai_summary": "Master Equipment DNA for P-185: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "PT-186",
+    "equipment_name": "GenChem PressureTransmitter PT-186",
+    "plant_area": "Process Area",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-9986",
+    "serial_number": "SN-2021-88086",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-188",
+      "T-189"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 98.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 147,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-PT-186",
+    "ai_summary": "Master Equipment DNA for PT-186: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "FM-187",
+    "equipment_name": "GenChem FlowMeter FM-187",
+    "plant_area": "Control Room",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-9987",
+    "serial_number": "SN-2021-88087",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-189",
+      "T-190"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 91.9,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 137,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-FM-187",
+    "ai_summary": "Master Equipment DNA for FM-187: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-188",
+    "equipment_name": "GenChem TemperatureSensor T-188",
+    "plant_area": "Pump House",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-9988",
+    "serial_number": "SN-2021-88088",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-190",
+      "T-191"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 79.4,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 119,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-188",
+    "ai_summary": "Master Equipment DNA for T-188: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "CV-189",
+    "equipment_name": "GenChem ControlValve CV-189",
+    "plant_area": "Boiler Section",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-9989",
+    "serial_number": "SN-2021-88089",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-191",
+      "T-192"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 71.5,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 107,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-CV-189",
+    "ai_summary": "Master Equipment DNA for CV-189: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "SV-190",
+    "equipment_name": "GenChem SafetyValve SV-190",
+    "plant_area": "Utilities",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-9990",
+    "serial_number": "SN-2021-88090",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-192",
+      "T-193"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 84.3,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 126,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-SV-190",
+    "ai_summary": "Master Equipment DNA for SV-190: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-191",
+    "equipment_name": "GenChem Pump P-191",
+    "plant_area": "Cooling Tower",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-9991",
+    "serial_number": "SN-2021-88091",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 85,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-193",
+      "T-194"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 74.1,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 111,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-191",
+    "ai_summary": "Master Equipment DNA for P-191: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "V-192",
+    "equipment_name": "GenChem Valve V-192",
+    "plant_area": "Compressor Area",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-9992",
+    "serial_number": "SN-2021-88092",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-194",
+      "T-195"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 88.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 132,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-V-192",
+    "ai_summary": "Master Equipment DNA for V-192: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "C-193",
+    "equipment_name": "GenChem Compressor C-193",
+    "plant_area": "Tank Farm",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-9993",
+    "serial_number": "SN-2021-88093",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-195",
+      "T-196"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 85.3,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 127,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-C-193",
+    "ai_summary": "Master Equipment DNA for C-193: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "M-194",
+    "equipment_name": "GenChem Motor M-194",
+    "plant_area": "Process Area",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-9994",
+    "serial_number": "SN-2021-88094",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-196",
+      "T-197"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 85.9,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 128,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-M-194",
+    "ai_summary": "Master Equipment DNA for M-194: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "HE-195",
+    "equipment_name": "GenChem HeatExchanger HE-195",
+    "plant_area": "Control Room",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-9995",
+    "serial_number": "SN-2021-88095",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-197",
+      "T-198"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 90.9,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 136,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-HE-195",
+    "ai_summary": "Master Equipment DNA for HE-195: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "B-196",
+    "equipment_name": "GenChem Boiler B-196",
+    "plant_area": "Pump House",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-9996",
+    "serial_number": "SN-2021-88096",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-198",
+      "T-199"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 75.3,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 112,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-B-196",
+    "ai_summary": "Master Equipment DNA for B-196: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-197",
+    "equipment_name": "GenChem Tank T-197",
+    "plant_area": "Boiler Section",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-9997",
+    "serial_number": "SN-2021-88097",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-199",
+      "T-200"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 96.5,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 144,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-197",
+    "ai_summary": "Master Equipment DNA for T-197: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-198",
+    "equipment_name": "GenChem Pipeline P-198",
+    "plant_area": "Utilities",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-9998",
+    "serial_number": "SN-2021-88098",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-200",
+      "T-201"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 70.6,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 105,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-198",
+    "ai_summary": "Master Equipment DNA for P-198: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "PT-199",
+    "equipment_name": "GenChem PressureTransmitter PT-199",
+    "plant_area": "Cooling Tower",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-9999",
+    "serial_number": "SN-2021-88099",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-201",
+      "T-202"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 73.4,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 110,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-PT-199",
+    "ai_summary": "Master Equipment DNA for PT-199: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "FM-200",
+    "equipment_name": "GenChem FlowMeter FM-200",
+    "plant_area": "Compressor Area",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-99100",
+    "serial_number": "SN-2021-88100",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-202",
+      "T-203"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 78.0,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 117,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-FM-200",
+    "ai_summary": "Master Equipment DNA for FM-200: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-201",
+    "equipment_name": "GenChem TemperatureSensor T-201",
+    "plant_area": "Tank Farm",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-99101",
+    "serial_number": "SN-2021-88101",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-203",
+      "T-204"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 73.1,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 109,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-201",
+    "ai_summary": "Master Equipment DNA for T-201: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "CV-202",
+    "equipment_name": "GenChem ControlValve CV-202",
+    "plant_area": "Process Area",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-99102",
+    "serial_number": "SN-2021-88102",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-204",
+      "T-205"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 89.9,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 134,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-CV-202",
+    "ai_summary": "Master Equipment DNA for CV-202: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "SV-203",
+    "equipment_name": "GenChem SafetyValve SV-203",
+    "plant_area": "Control Room",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-99103",
+    "serial_number": "SN-2021-88103",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-205",
+      "T-206"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 89.4,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 134,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-SV-203",
+    "ai_summary": "Master Equipment DNA for SV-203: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-204",
+    "equipment_name": "GenChem Pump P-204",
+    "plant_area": "Pump House",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-99104",
+    "serial_number": "SN-2021-88104",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 85,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-206",
+      "T-207"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 78.0,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 117,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-204",
+    "ai_summary": "Master Equipment DNA for P-204: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "V-205",
+    "equipment_name": "GenChem Valve V-205",
+    "plant_area": "Boiler Section",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-99105",
+    "serial_number": "SN-2021-88105",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-207",
+      "T-208"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 88.8,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 133,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-V-205",
+    "ai_summary": "Master Equipment DNA for V-205: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "C-206",
+    "equipment_name": "GenChem Compressor C-206",
+    "plant_area": "Utilities",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-99106",
+    "serial_number": "SN-2021-88106",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-208",
+      "T-209"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 87.6,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 131,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-C-206",
+    "ai_summary": "Master Equipment DNA for C-206: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "M-207",
+    "equipment_name": "GenChem Motor M-207",
+    "plant_area": "Cooling Tower",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-99107",
+    "serial_number": "SN-2021-88107",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-209",
+      "T-210"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 83.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 124,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-M-207",
+    "ai_summary": "Master Equipment DNA for M-207: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "HE-208",
+    "equipment_name": "GenChem HeatExchanger HE-208",
+    "plant_area": "Compressor Area",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-99108",
+    "serial_number": "SN-2021-88108",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-210",
+      "T-211"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 89.5,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 134,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-HE-208",
+    "ai_summary": "Master Equipment DNA for HE-208: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "B-209",
+    "equipment_name": "GenChem Boiler B-209",
+    "plant_area": "Tank Farm",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-99109",
+    "serial_number": "SN-2021-88109",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-211",
+      "T-212"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 92.4,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 138,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-B-209",
+    "ai_summary": "Master Equipment DNA for B-209: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-210",
+    "equipment_name": "GenChem Tank T-210",
+    "plant_area": "Process Area",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-99110",
+    "serial_number": "SN-2021-88110",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-212",
+      "T-213"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 70.6,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 105,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-210",
+    "ai_summary": "Master Equipment DNA for T-210: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-211",
+    "equipment_name": "GenChem Pipeline P-211",
+    "plant_area": "Control Room",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-99111",
+    "serial_number": "SN-2021-88111",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-213",
+      "T-214"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 72.8,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 109,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-211",
+    "ai_summary": "Master Equipment DNA for P-211: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "PT-212",
+    "equipment_name": "GenChem PressureTransmitter PT-212",
+    "plant_area": "Pump House",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-99112",
+    "serial_number": "SN-2021-88112",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-214",
+      "T-215"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 75.0,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 112,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-PT-212",
+    "ai_summary": "Master Equipment DNA for PT-212: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "FM-213",
+    "equipment_name": "GenChem FlowMeter FM-213",
+    "plant_area": "Boiler Section",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-99113",
+    "serial_number": "SN-2021-88113",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-215",
+      "T-216"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 83.9,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 125,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-FM-213",
+    "ai_summary": "Master Equipment DNA for FM-213: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-214",
+    "equipment_name": "GenChem TemperatureSensor T-214",
+    "plant_area": "Utilities",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-99114",
+    "serial_number": "SN-2021-88114",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-216",
+      "T-217"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 72.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 108,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-214",
+    "ai_summary": "Master Equipment DNA for T-214: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "CV-215",
+    "equipment_name": "GenChem ControlValve CV-215",
+    "plant_area": "Cooling Tower",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-99115",
+    "serial_number": "SN-2021-88115",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-217",
+      "T-218"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 81.1,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 121,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-CV-215",
+    "ai_summary": "Master Equipment DNA for CV-215: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "SV-216",
+    "equipment_name": "GenChem SafetyValve SV-216",
+    "plant_area": "Compressor Area",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-99116",
+    "serial_number": "SN-2021-88116",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-218",
+      "T-219"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 79.4,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 119,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-SV-216",
+    "ai_summary": "Master Equipment DNA for SV-216: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-217",
+    "equipment_name": "GenChem Pump P-217",
+    "plant_area": "Tank Farm",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-99117",
+    "serial_number": "SN-2021-88117",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 85,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-219",
+      "T-220"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 92.0,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 138,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-217",
+    "ai_summary": "Master Equipment DNA for P-217: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "V-218",
+    "equipment_name": "GenChem Valve V-218",
+    "plant_area": "Process Area",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-99118",
+    "serial_number": "SN-2021-88118",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-220",
+      "T-221"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 84.0,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 126,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-V-218",
+    "ai_summary": "Master Equipment DNA for V-218: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "C-219",
+    "equipment_name": "GenChem Compressor C-219",
+    "plant_area": "Control Room",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-99119",
+    "serial_number": "SN-2021-88119",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-221",
+      "T-222"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 75.9,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 113,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-C-219",
+    "ai_summary": "Master Equipment DNA for C-219: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "M-220",
+    "equipment_name": "GenChem Motor M-220",
+    "plant_area": "Pump House",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-99120",
+    "serial_number": "SN-2021-88120",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-222",
+      "T-223"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 94.1,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 141,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-M-220",
+    "ai_summary": "Master Equipment DNA for M-220: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "HE-221",
+    "equipment_name": "GenChem HeatExchanger HE-221",
+    "plant_area": "Boiler Section",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-99121",
+    "serial_number": "SN-2021-88121",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-223",
+      "T-224"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 90.0,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 135,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-HE-221",
+    "ai_summary": "Master Equipment DNA for HE-221: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "B-222",
+    "equipment_name": "GenChem Boiler B-222",
+    "plant_area": "Utilities",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-99122",
+    "serial_number": "SN-2021-88122",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-224",
+      "T-225"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 92.8,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 139,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-B-222",
+    "ai_summary": "Master Equipment DNA for B-222: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-223",
+    "equipment_name": "GenChem Tank T-223",
+    "plant_area": "Cooling Tower",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-99123",
+    "serial_number": "SN-2021-88123",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-225",
+      "T-226"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 97.5,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 146,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-223",
+    "ai_summary": "Master Equipment DNA for T-223: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-224",
+    "equipment_name": "GenChem Pipeline P-224",
+    "plant_area": "Compressor Area",
+    "manufacturer": "KSB Pumps",
+    "model": "Model-KSB-99124",
+    "serial_number": "SN-2021-88124",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-226",
+      "T-227"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 94.7,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 142,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-224",
+    "ai_summary": "Master Equipment DNA for P-224: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "PT-225",
+    "equipment_name": "GenChem PressureTransmitter PT-225",
+    "plant_area": "Tank Farm",
+    "manufacturer": "General Electric",
+    "model": "Model-GEN-99125",
+    "serial_number": "SN-2021-88125",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-227",
+      "T-228"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 96.6,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 144,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-PT-225",
+    "ai_summary": "Master Equipment DNA for PT-225: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "FM-226",
+    "equipment_name": "GenChem FlowMeter FM-226",
+    "plant_area": "Process Area",
+    "manufacturer": "Flowserve",
+    "model": "Model-FLO-99126",
+    "serial_number": "SN-2021-88126",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-228",
+      "T-229"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 94.1,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 141,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-FM-226",
+    "ai_summary": "Master Equipment DNA for FM-226: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "T-227",
+    "equipment_name": "GenChem TemperatureSensor T-227",
+    "plant_area": "Control Room",
+    "manufacturer": "Emerson Fisher",
+    "model": "Model-EME-99127",
+    "serial_number": "SN-2021-88127",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 45,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-229",
+      "T-230"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 90.4,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 135,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-T-227",
+    "ai_summary": "Master Equipment DNA for T-227: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "CV-228",
+    "equipment_name": "GenChem ControlValve CV-228",
+    "plant_area": "Pump House",
+    "manufacturer": "Sulzer",
+    "model": "Model-SUL-99128",
+    "serial_number": "SN-2021-88128",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-230",
+      "T-101"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 80.2,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 120,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-CV-228",
+    "ai_summary": "Master Equipment DNA for CV-228: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "SV-229",
+    "equipment_name": "GenChem SafetyValve SV-229",
+    "plant_area": "Boiler Section",
+    "manufacturer": "Siemens",
+    "model": "Model-SIE-99129",
+    "serial_number": "SN-2021-88129",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 350,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-101",
+      "T-102"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 80.4,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 120,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-SV-229",
+    "ai_summary": "Master Equipment DNA for SV-229: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  },
+  {
+    "asset_id": "P-230",
+    "equipment_name": "GenChem Pump P-230",
+    "plant_area": "Utilities",
+    "manufacturer": "ABB",
+    "model": "Model-ABB-99130",
+    "serial_number": "SN-2021-88130",
+    "installation_date": "2021-03-15",
+    "commissioning_date": "2021-04-01",
+    "specifications": {
+      "design_pressure_bar": 140,
+      "rated_temp_c": 85,
+      "max_allowable_vibration_rms": 4.5
+    },
+    "operating_envelope": {
+      "normal_pressure_range": "110-125 bar",
+      "normal_temp_range": "65-78 \u00b0C",
+      "normal_vibration_range": "1.5-3.5 mm/s"
+    },
+    "connected_equipment": [
+      "V-102",
+      "T-103"
+    ],
+    "maintenance_history_count": 8,
+    "failure_history_count": 2,
+    "health_score": 72.1,
+    "risk_score": "Green Normal",
+    "remaining_useful_life_days": 108,
+    "compliance_status": "Compliant (ISO 55001)",
+    "equipment_dna_id": "DNA-GENCHEM-P-230",
+    "ai_summary": "Master Equipment DNA for P-230: Installed 2021. Primary failure mode is bearing race pitting linked to mechanical seal barrier pressure drops."
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "question_id": "Q-001",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #1)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-002",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #2)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-003",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #3)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-004",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #4)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-005",
+    "text": "Why did Pump P-101 fail? (Query Variant #5)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-006",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #6)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-007",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #7)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-008",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #8)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-009",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #9)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-010",
+    "text": "Why did Pump P-101 fail? (Query Variant #10)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-011",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #11)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-012",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #12)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-013",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #13)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-014",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #14)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-015",
+    "text": "Why did Pump P-101 fail? (Query Variant #15)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-016",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #16)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-017",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #17)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-018",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #18)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-019",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #19)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-020",
+    "text": "Why did Pump P-101 fail? (Query Variant #20)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-021",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #21)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-022",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #22)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-023",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #23)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-024",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #24)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-025",
+    "text": "Why did Pump P-101 fail? (Query Variant #25)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-026",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #26)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-027",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #27)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-028",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #28)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-029",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #29)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-030",
+    "text": "Why did Pump P-101 fail? (Query Variant #30)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-031",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #31)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-032",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #32)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-033",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #33)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-034",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #34)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-035",
+    "text": "Why did Pump P-101 fail? (Query Variant #35)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-036",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #36)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-037",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #37)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-038",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #38)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-039",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #39)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-040",
+    "text": "Why did Pump P-101 fail? (Query Variant #40)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-041",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #41)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-042",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #42)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-043",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #43)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-044",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #44)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-045",
+    "text": "Why did Pump P-101 fail? (Query Variant #45)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-046",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #46)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-047",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #47)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-048",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #48)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-049",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #49)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-050",
+    "text": "Why did Pump P-101 fail? (Query Variant #50)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-051",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #51)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-052",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #52)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-053",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #53)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-054",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #54)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-055",
+    "text": "Why did Pump P-101 fail? (Query Variant #55)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-056",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #56)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-057",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #57)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-058",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #58)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-059",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #59)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-060",
+    "text": "Why did Pump P-101 fail? (Query Variant #60)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-061",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #61)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-062",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #62)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-063",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #63)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-064",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #64)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-065",
+    "text": "Why did Pump P-101 fail? (Query Variant #65)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-066",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #66)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-067",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #67)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-068",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #68)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-069",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #69)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-070",
+    "text": "Why did Pump P-101 fail? (Query Variant #70)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-071",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #71)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-072",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #72)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-073",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #73)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-074",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #74)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-075",
+    "text": "Why did Pump P-101 fail? (Query Variant #75)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-076",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #76)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-077",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #77)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-078",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #78)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-079",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #79)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-080",
+    "text": "Why did Pump P-101 fail? (Query Variant #80)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-081",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #81)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-082",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #82)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-083",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #83)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-084",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #84)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-085",
+    "text": "Why did Pump P-101 fail? (Query Variant #85)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-086",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #86)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-087",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #87)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-088",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #88)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-089",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #89)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-090",
+    "text": "Why did Pump P-101 fail? (Query Variant #90)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-091",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #91)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-092",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #92)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-093",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #93)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-094",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #94)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-095",
+    "text": "Why did Pump P-101 fail? (Query Variant #95)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-096",
+    "text": "What is the remaining useful life of Valve V-101? (Query Variant #96)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-097",
+    "text": "Generate emergency LOTO SOP for Pump P-101 (Query Variant #97)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-098",
+    "text": "Show 2-hop Knowledge Graph connections for P-101 (Query Variant #98)",
+    "category": "Diagnostic"
+  },
+  {
+    "question_id": "Q-099",
+    "text": "Compare maintenance strategies for GenChem Boiler Feed System (Query Variant #99)",
+    "category": "Predictive"
+  },
+  {
+    "question_id": "Q-100",
+    "text": "Why did Pump P-101 fail? (Query Variant #100)",
+    "category": "Diagnostic"
+  }
+]

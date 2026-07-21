@@ -1,0 +1,5 @@
+QUALITY CALIBRATION CERTIFICATE - VALVE V-101
+Manufacturer: Fisher Emerson | Size: 12 Inch ANSI 900#
+Actuator Type: Pneumatic Diaphragm | Calibration Date: 2026-02-14
+Stem Friction Index: 12% (Baseline) | Response Time: 1.2 Seconds
+Certification Standard: ISO 9001 / ASME B16.34.

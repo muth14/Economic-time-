@@ -1,0 +1,6 @@
+INCIDENT REPORT: P-101 High Vibration Anomaly
+Date: 2026-07-12 | Unit: Power & Utility Bay 4
+Lead Reliability Engineer: Elena Rostova | Incident ID: INC-2026-881
+Root Cause: Mechanical seal flush nitrogen bladder pre-charge dropped to 1.8 bar, diluting drive-end bearing lube oil.
+Vibration Peak: 6.8 mm/s RMS (OEM threshold: 4.5 mm/s).
+Action Taken: API Plan 53B accumulator re-pressurized, oil cavity flushed with ISO VG 46 synthetic lubricant.

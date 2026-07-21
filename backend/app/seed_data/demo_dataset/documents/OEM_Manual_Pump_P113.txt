@@ -1,0 +1,6 @@
+GenChem Refinery OEM Manual: Pump P-113
+Manufacturer: Flowserve | Model: High Pressure Centrifugal
+Design Pressure: 140 bar | Rated Temperature: 85°C | Flow: 450 m3/h
+Maintenance Standard: API Plan 53B Pressurized Flush System.
+Continuous Vibration Threshold: 4.5 mm/s RMS.
+Lube Oil Standard: ISO VG 46 Synthetic Fluid.

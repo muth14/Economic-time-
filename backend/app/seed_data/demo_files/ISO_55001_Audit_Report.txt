@@ -1,0 +1,6 @@
+ISO 55001 ASSET MANAGEMENT COMPLIANCE AUDIT
+Audit ID: AUD-2026-Q3 | Auditor: TUV Rheinland Certified Team
+Overall Plant Compliance Score: 87.5%
+Findings:
+1. P-101 Mechanical Seal Flush PM overdue by 12 days under OISD-137.
+2. Tank T-301 safety relief valve re-certification due in 14 days under PESO.

@@ -1,0 +1,222 @@
+[
+  {
+    "scenario_id": "SCENARIO-2026-101",
+    "title": "GenChem High Pressure Pump P-101 Bearing Pitting Event",
+    "trigger_asset": "P-101",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-102",
+    "title": "GenChem High Pressure Pump P-102 Bearing Pitting Event",
+    "trigger_asset": "P-102",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-103",
+    "title": "GenChem High Pressure Pump P-103 Bearing Pitting Event",
+    "trigger_asset": "P-103",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-104",
+    "title": "GenChem High Pressure Pump P-104 Bearing Pitting Event",
+    "trigger_asset": "P-104",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-105",
+    "title": "GenChem High Pressure Pump P-105 Bearing Pitting Event",
+    "trigger_asset": "P-105",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-106",
+    "title": "GenChem High Pressure Pump P-106 Bearing Pitting Event",
+    "trigger_asset": "P-106",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-107",
+    "title": "GenChem High Pressure Pump P-107 Bearing Pitting Event",
+    "trigger_asset": "P-107",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-108",
+    "title": "GenChem High Pressure Pump P-108 Bearing Pitting Event",
+    "trigger_asset": "P-108",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-109",
+    "title": "GenChem High Pressure Pump P-109 Bearing Pitting Event",
+    "trigger_asset": "P-109",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-110",
+    "title": "GenChem High Pressure Pump P-110 Bearing Pitting Event",
+    "trigger_asset": "P-110",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-111",
+    "title": "GenChem High Pressure Pump P-111 Bearing Pitting Event",
+    "trigger_asset": "P-111",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-112",
+    "title": "GenChem High Pressure Pump P-112 Bearing Pitting Event",
+    "trigger_asset": "P-112",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-113",
+    "title": "GenChem High Pressure Pump P-113 Bearing Pitting Event",
+    "trigger_asset": "P-113",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-114",
+    "title": "GenChem High Pressure Pump P-114 Bearing Pitting Event",
+    "trigger_asset": "P-114",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-115",
+    "title": "GenChem High Pressure Pump P-115 Bearing Pitting Event",
+    "trigger_asset": "P-115",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-116",
+    "title": "GenChem High Pressure Pump P-116 Bearing Pitting Event",
+    "trigger_asset": "P-116",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-117",
+    "title": "GenChem High Pressure Pump P-117 Bearing Pitting Event",
+    "trigger_asset": "P-117",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-118",
+    "title": "GenChem High Pressure Pump P-118 Bearing Pitting Event",
+    "trigger_asset": "P-118",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-119",
+    "title": "GenChem High Pressure Pump P-119 Bearing Pitting Event",
+    "trigger_asset": "P-119",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  },
+  {
+    "scenario_id": "SCENARIO-2026-120",
+    "title": "GenChem High Pressure Pump P-120 Bearing Pitting Event",
+    "trigger_asset": "P-120",
+    "sensor_anomaly": "Vibration RMS spiked from 2.8 mm/s to 6.84 mm/s over 48 hours.",
+    "maintenance_finding": "API Plan 53B nitrogen accumulator bladder pressure decay to 1.8 bar.",
+    "inspection_report": "Drive-end bearing race micro-pitting caused by seal fluid lube oil dilution.",
+    "lessons_learned": "Install continuous wireless pressure telemetry on Plan 53B accumulator bladders.",
+    "compliance_impact": "OISD-137 maintenance response time non-conformance flag.",
+    "executive_decision": "Execute Predictive Seal Overhaul ($4,200) vs Run-to-Failure ($280,000 loss)."
+  }
+]

@@ -1,0 +1,7 @@
+GenChem Refinery Incident Report ID: INC-2026-114
+Date: 2026-06-15 | Plant Area: Pump House
+Target Asset: P-114 | Lead Engineer: Elena Rostova
+Failure Mode: Mechanical seal barrier fluid pressure drop causing drive-end bearing overheating.
+Vibration Peak Recorded: 6.84 mm/s RMS.
+Root Cause: Nitrogen bladder pre-charge pressure drop in Plan 53B accumulator.
+Corrective Action: System re-pressurized to 4.5 bar, lube oil flushed.

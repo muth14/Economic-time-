@@ -1,0 +1,9 @@
+GenChem Refinery Standard Operating Procedure: SOP-ISO-107
+Target Asset: P-107 | Category: Emergency Maintenance & LOTO
+PPE Required: Nitrile Gloves, Arc Flash Suit Cat 2, Steel Toe Boots, Safety Goggles.
+Tools: Torque Wrench 200 Nm, Laser Alignment Kit, Nitrogen Charging Cart.
+Steps:
+1. Isolate 4160V feeder breaker for Motor M-107.
+2. Depressurize suction line L-FEED-1004 to 0 bar.
+3. Torque coupling bolts to 140 N-m.
+4. Verify laser runout <0.02 mm before energizing.

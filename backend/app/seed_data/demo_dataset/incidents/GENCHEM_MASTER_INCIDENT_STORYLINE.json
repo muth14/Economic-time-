@@ -1,0 +1,46 @@
+{
+  "title": "GenChem Master Incident Story: Pump P-101 Bearing Degradation & Cascade Boiler Trip",
+  "facility": "GenChem Refinery Main (Jamshedpur)",
+  "timeline": [
+    {
+      "step": 1,
+      "asset": "P-101",
+      "event": "API Plan 53B accumulator nitrogen bladder pre-charge decayed to 1.8 bar."
+    },
+    {
+      "step": 2,
+      "asset": "P-101",
+      "event": "Vibration RMS increased from 2.8 mm/s to 6.84 mm/s over 48 hours."
+    },
+    {
+      "step": 3,
+      "asset": "P-101",
+      "event": "Drive-end bearing race micro-pitting observed by Operator Ananya Sharma."
+    },
+    {
+      "step": 4,
+      "asset": "V-102",
+      "event": "Control Valve V-102 experienced partial actuator diaphragm packing blockage at 48% stroke."
+    },
+    {
+      "step": 5,
+      "asset": "HE-106",
+      "event": "Hydraulic pressure surge propagated to Boiler Feed Header, causing Boiler B-201 high pressure trip."
+    },
+    {
+      "step": 6,
+      "asset": "PLANT",
+      "event": "Emergency Plant Shutdown executed under LOTO SOP-12."
+    },
+    {
+      "step": 7,
+      "asset": "AUDIT",
+      "event": "ISO 55001 & OISD-137 audit finding flagged 12-day maintenance delay."
+    },
+    {
+      "step": 8,
+      "asset": "RECOVERY",
+      "event": "INDUSTRIAL BRAIN Multi-Agent Swarm generated Predictive Overhaul Plan ($4,200 cost vs $280,000 outage loss)."
+    }
+  ]
+}
